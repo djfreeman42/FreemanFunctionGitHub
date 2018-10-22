@@ -19,7 +19,7 @@ public class FreemanFunctionGitHub {
     }
     public static void Freeman()
     {
-        Sysem.out.println("Dylan Freeman");
+        System.out.println("Dylan Freeman");
     }
     
 }
